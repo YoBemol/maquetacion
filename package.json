@@ -1,0 +1,15 @@
+{
+  "name": "maquetacion",
+  "version": "1.0.0",
+  "description": "exercise html",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "YoBemol",
+  "license": "ISC"
+}
